@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/src/java/dao/LoginDao.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/src/java/model/User.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/web/common/header.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/src/java/Utils/JDBCUtils.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/src/java/controller/ToDoController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/web/login/login.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/src/java/model/ToDo.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/web/todo/todo_form.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/src/java/dao/ToDoDao.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/src/java/dao/ToDoDaoImpl.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/ToDoJSP/web/todo/todolist.jsp</file>
+        </group>
+    </open-files>
+</project-private>
